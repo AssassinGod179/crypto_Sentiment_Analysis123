@@ -1,0 +1,5 @@
+Coin,Model,RMSE,MAE,R2,MAPE,Dir_Acc
+BTC,RF Regressor,3343.19,2904.50,-3.1532,16.5%,N/A
+BTC,RF Classifier,N/A,N/A,N/A,N/A,50.0%
+ETH,RF Regressor,98.23,71.12,0.6034,5.2%,N/A
+ETH,RF Classifier,N/A,N/A,N/A,N/A,49.3%
